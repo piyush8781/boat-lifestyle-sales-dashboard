@@ -21,4 +21,8 @@ simulation.py: Python script to generate random sales data.
 boat_sales.pbix: Power BI report file.
 ## Author
 Piyush Dhondiyal
+## Below, there is a video demonstrating how the project works. Watch it for better understanding.
+
+
+https://github.com/piyush8781/boat-lifestyle-sales-dashboard/assets/163038938/9fdc25a2-9303-4a8d-bb9f-e3ee104e122f
 
