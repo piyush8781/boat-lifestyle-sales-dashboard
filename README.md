@@ -22,5 +22,3 @@ boat_sales.pbix: Power BI report file.
 ## Author
 Piyush Dhondiyal
 
-License
-This project is licensed under the MIT License.
